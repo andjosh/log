@@ -4,3 +4,10 @@ maybe different branches can represent different topics
 Encourages you to make short, little journal entries like committing!
 set commit to --allow-empty
 set syntax highliting to markdown in vim
+
+## Things to recreate from jrnl
+
+- ability to search with phrase
+- ability to search or display between two dates
+- ability to log something at a specific time in the past
+- preformatted templates (this can be done with commit message templates!)
